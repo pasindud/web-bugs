@@ -421,7 +421,7 @@ hr {
 }
 
 code, pre, tt {
-	font-family: Consolas, Inconsolata, "Liberation Mono", monospace;
+	font-family: verdana, arial, helvetica, sans-serif;
 	font-size: 13px;
 }
 
